@@ -10,12 +10,9 @@ Client is interested in starting a crowdfunding campaign (budget is $10,000) for
 
 ## Analysis and Challenges
 
-Data file for prior crowdfunding campaigns included description, funding goal, amount pledged, country, deadline date, launch date, number of backers, category, and subcategory  of 4114 campaigns.
+Data file for prior crowdfunding campaigns included description, funding goal, amount pledged, country, deadline date, launch date, number of backers, category, and sub-category  of 4114 campaigns.
 
-Analysis focused on analyzing Outcomes (success, failed, canceled, or live) based on Launch Date, Outcomes Based on Goals for all campaigns and for the theater category in particular. 
-
-Challenge: Date format for deadline and launch date as provided needed to be converted for analysis.  Format conversion accomplished with formula.
-
+Analysis focused on analyzing Outcomes (success, failed, canceled, or live) based on Launch Date and Outcomes Based on Goals for the play sub-category. 
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -33,13 +30,16 @@ Data Format for deadline and launch date required conversion for analysis.  Form
 
 ## Conclusions - Outcomes based on Launch Date
 
-1.
-2.
+1.  May followed by June then July have the highest success for crowd funding campaigns.
+2.  Successful campaigns illustrate highest variance with beginning and end of year at lowest success rate.
 
+Recommendation:  Crowdfunding campaign should be launched in late spring/early summer months with May as target month followed by June and July - would not recommend launching beyond July for best outcome.
 
 ## Conclusions - Outcomes based on Goals
 
+1. Campaigns with goals less than $5000 show highest success rate followed by campaigns with goals up to $15000.
 
+Recommendation:  For the client's $10,000 budget, recommend launching two (2) separate campaigns of $5,000 each to maximize probability of success.
 
 ## Dataset Limitations
 
