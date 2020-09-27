@@ -21,17 +21,13 @@ Challenge: Date format for deadline and launch date as provided needed to be con
 
 ![image](https://user-images.githubusercontent.com/71353552/94366417-528c8500-0095-11eb-9ea4-cbf2795ae2fa.png)
 
-
-
 ### Analysis of Outcomes Based on Goals
 
-
-
-
+![image](https://user-images.githubusercontent.com/71353552/94366468-aa2af080-0095-11eb-91b6-c754dccb3e71.png)
 
 ### Challenges and Difficulties Encountered
 
-Data Format for deadline and launch date required conversion for analysis.
+Data Format for deadline and launch date required conversion for analysis.  Format conversion accomplished with formula.
 
 ### Results
 
