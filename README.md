@@ -19,7 +19,7 @@ Challenge: Date format for deadline and launch date as provided needed to be con
 
 ### Analysis of Outcomes Based on Launch Date
 
-
+![image](https://user-images.githubusercontent.com/71353552/94366417-528c8500-0095-11eb-9ea4-cbf2795ae2fa.png)
 
 
 
